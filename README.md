@@ -17,7 +17,7 @@ EcoSort는 혁신적인 음성인식 기술을 활용하여 효율적인 자동 
 * [프로젝트 깃허브 주소](https://github.com/CodeMystero/soundRecognitionRecycleBin)
 * 발표자료 : https://github.com/goodsense/project_aewsome/doc/slide.ppt
 
-## 프로젝트 마일스톤
+## 프로젝트 마일스톤 - Gantt Chart
 
 ```mermaid
 gantt
