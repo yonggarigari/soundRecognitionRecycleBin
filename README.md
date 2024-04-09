@@ -6,6 +6,18 @@ EcoSort는 혁신적인 음성인식 기술을 활용하여 효율적인 자동 
 
 이 프로젝트는 환경 보호를 위한 혁신적인 기술의 결합을 통해 쓰레기 처리의 효율성과 편의성을 증대시킵니다. 쓰레기 분류는 많은 사람들이 소홀히 하는 문제 중 하나입니다. 따라서 EcoSort는 이러한 문제를 해결하고자 음성인식 기술을 활용하여 쓰레기를 자동으로 분류함으로써 환경 보호 의식을 높이고 쓰레기 처리 과정을 최적화하는 것을 목표로 합니다.
 
+## 프로젝트 요약
+* Members
+  | Name | Role |
+  |----|----|
+  | 김승환 | Project lead, 프로젝트를 총괄하고 마일스톤을 생성하고 프로젝트 이슈 진행상황을 관리한다. |
+  | 장동혁 | Embedded system , 기구및 제어 시스템을 제작하고, 펌웨어를 코딩한다. |
+  | 송인태 | AI modeling, 재활용 소재에 대한 음성 인식 AI를 모델링 한다. |
+  | 임선웅 | Industrial design, 사용자의 편의 및 취향을 고려하여 기구의 외관, 형태, 색상 등을 설계한다. |
+* [프로젝트 깃허브 주소](https://github.com/CodeMystero/soundRecognitionRecycleBin)
+* 발표자료 : https://github.com/goodsense/project_aewsome/doc/slide.ppt
+
+
 ## High Level Design
 
 * (프로젝트 아키텍쳐 기술, 전반적인 diagram 으로 설명을 권장)
