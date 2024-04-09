@@ -17,6 +17,36 @@ EcoSort는 혁신적인 음성인식 기술을 활용하여 효율적인 자동 
 * [프로젝트 깃허브 주소](https://github.com/CodeMystero/soundRecognitionRecycleBin)
 * 발표자료 : https://github.com/goodsense/project_aewsome/doc/slide.ppt
 
+## 프로젝트 마일스톤
+
+```mermaid
+gantt
+    dateFormat  MM-DD-YYYY
+    
+	
+	section 기구 & 펌웨어
+                기구 재료 확보 :2024-04-07, 3d
+                기구 제작  : 2024-04-09, 2d
+                펌웨어 구현 : 2024-04-11, 5d
+                기술 검토: 2024-04-16, 4d
+
+	section 디자인 설계
+                디자인 관련 자료조사 :2024-04-07, 2d
+                디자인 확정 :2024-04-09, 1d
+
+  section Documentation & Presentation
+                최종 보고서 정리 : 2024-04-20, 2d
+                발표날 : crit, 2024-04-22,1d
+
+  section 음성인식 AI 구현
+                모델설정 : 2024-04-09, 2d
+                Data Collection : 2024-04-11, 2d
+                Modelling : 2024-04-13, 3d
+	              Model Review : 2024-04-16, 4d
+ 
+
+```
+
 
 ## High Level Design
 
