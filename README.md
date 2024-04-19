@@ -11,9 +11,9 @@ EcoSort는 혁신적인 음성인식 기술을 활용하여 효율적인 자동 
   | Name | Role |
   |----|----|
   | 김승환 | Project lead, 프로젝트를 총괄하고 마일스톤을 생성하고 프로젝트 이슈 진행상황을 관리한다. |
-  | 장동혁 | Embedded system , 기구및 제어 시스템을 제작하고, 펌웨어를 코딩한다. |
-  | 송인태 | AI modeling, 재활용 소재에 대한 음성 인식 AI를 모델링 한다. |
-  | 임선웅 | Industrial design, 사용자의 편의 및 취향을 고려하여 기구의 외관, 형태, 색상 등을 설계한다. |
+  | 송인태 | Embedded system , 기구및 제어 시스템을 제작하고, 펌웨어를 코딩한다. |
+  | 김용철 | AI modeling, 재활용 소재에 대한 음성 인식 AI를 모델링 한다. |
+  | 김준영 | Assistant, 전반적인 도움 및 문서작업 보조 |
 * [프로젝트 깃허브 주소](https://github.com/CodeMystero/soundRecognitionRecycleBin)
 * 발표자료 : https://github.com/goodsense/project_aewsome/doc/slide.ppt
 
