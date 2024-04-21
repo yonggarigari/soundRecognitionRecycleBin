@@ -8,7 +8,7 @@ EcoSort는 혁신적인 음성인식 기술을 활용하여 효율적인 자동 
 
 >시연영상 링크 👇
 
-https://youtube.com/shorts/WwXuutiFc3Y?si=UxoZxxDrEbfMhST1
+* [시연영상 클릭](https://youtube.com/shorts/WwXuutiFc3Y?si=UxoZxxDrEbfMhST1)
 
 > 발표자료 링크 👇
 
