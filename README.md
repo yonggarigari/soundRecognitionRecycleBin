@@ -54,7 +54,7 @@ section Documentation & Presentation
 
 ## High Level Design
 
-* (프로젝트 아키텍쳐 기술, 전반적인 diagram 으로 설명을 권장)
+![HLD](https://github.com/CodeMystero/soundRecognitionRecycleBin/blob/main/etc/HLD.jpg)
 
 ## Clone code
 
