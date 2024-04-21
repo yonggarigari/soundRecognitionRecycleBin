@@ -19,7 +19,7 @@ https://youtube.com/shorts/WwXuutiFc3Y?si=UxoZxxDrEbfMhST1
   | 김용철 | AI modeling, 재활용 소재에 대한 음성 인식 AI를 모델링 한다. |
   | 김준영 | Assistant, 전반적인 도움 및 문서작업 보조 |
 * [프로젝트 깃허브 주소](https://github.com/CodeMystero/soundRecognitionRecycleBin)
-* 발표자료 : https://github.com/goodsense/project_aewsome/doc/slide.ppt
+* 발표자료 : [https://github.com/goodsense/project_aewsome/doc/slide.ppt](https://www.canva.com/design/DAGB4bD7V8c/_7ljApcovK_1GcbWy087zg/edit?utm_content=DAGB4bD7V8c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## 프로젝트 마일스톤 - Gantt Chart
 
